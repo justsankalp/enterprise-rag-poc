@@ -26,8 +26,7 @@ Built to demonstrate **citation-grade grounding**, **metadata-aware vector retri
 
 **1. Clone the repository and set up the environment:**
 ```bash
-git clone [https://github.com/yourusername/save-soil-copilot.git](https://github.com/yourusername/save-soil-copilot.git)
-cd save-soil-copilot
-uv venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+git clone https://github.com/justsankalp/enterprise-rag-poc.git
+cd enterprise-rag-poc
+uv init
 uv pip install -r requirements.txt
