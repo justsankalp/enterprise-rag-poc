@@ -3,12 +3,11 @@
 An enterprise-grade, Retrieval-Augmented Generation (RAG) Proof of Concept designed to extract and synthesize actionable insights from dense, unstructured environmental policy documents.
 
 ![Save Soil Copilot UI](assets/s1.png)
+![System Architecture / Backend Demo](assets/s2.png)
 
 Built to demonstrate **citation-grade grounding**, **metadata-aware vector retrieval**, and **hallucination prevention** using modern Agentic AI frameworks.
 
 ## 🏗️ Architecture & Tech Stack
-
-![System Architecture / Backend Demo](assets/s2.png)
 
 * **Orchestration:** [Google Agent Development Kit (ADK)](https://github.com/google/agent-development-kit) for LLM routing and tool execution.
 * **Vector Database:** [ChromaDB](https://www.trychroma.com/) for local, persistent semantic storage.
